@@ -1,0 +1,27 @@
+{
+  "name": "Assignment3",
+  "version": "1.0.0",
+  "description": "Assignment 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo test",
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+  "url": "git+https://github.com/Eliamabb/Assignment3.git#main"
+  },
+  "keywords": [
+    "Assignment"
+  ],
+  "author": "ABBOU Eliam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eliamabb/Assignment3/issues"
+  },
+  "homepage": "https://github.com/Eliamabb/Assignment3/tree/main#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "nodemon": "^2.0.15"
+  }
+}
