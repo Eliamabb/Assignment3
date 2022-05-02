@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-  "url": "git+https://github.com/Eliamabb/Assignment3.git#main"
+    "url": "git+https://github.com/Eliamabb/Assignment3.git#main"
   },
   "keywords": [
     "Assignment"
@@ -22,6 +22,8 @@
   "homepage": "https://github.com/Eliamabb/Assignment3/tree/main#readme",
   "dependencies": {
     "express": "^4.17.3",
-    "nodemon": "^2.0.15"
+    "knex": "^2.0.0",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.3"
   }
 }
